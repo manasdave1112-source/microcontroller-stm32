@@ -1,0 +1,2 @@
+../Core/Src/adc_pot.c:22:13:delay_loops	16	static,ignoring_inline_asm
+../Core/Src/adc_pot.c:27:6:adc_pot_init	16	static
